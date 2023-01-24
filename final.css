@@ -4,7 +4,7 @@
 }
 
 .hero{
-    height: 100vh;
+    height: auto;
     width: 100%;
     background-image: url('background1.png');
     background-position: center;
@@ -202,7 +202,7 @@ nav ul li a i{
 
 
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width:270px) {
     label{
         display: block;
         cursor:pointer;
@@ -223,8 +223,7 @@ nav ul li a i{
         display: block; 
     }
   .hero{
-    background-image: url('MOB.png');
-    background-position: center;
+    background-image: url("MOB.png");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
