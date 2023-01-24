@@ -200,7 +200,7 @@ nav ul li a i{
 
 
 
-@media only screen and (max-width: 480px) {
+@media all and (max-width: 480px){
     label{
         display: block;
         cursor:pointer;
@@ -223,7 +223,6 @@ nav ul li a i{
         display: block;
     }
   #hero{
-    background-image: url('MOB.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
