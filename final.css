@@ -200,7 +200,7 @@ nav ul li a i{
 
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 568px) {
     label{
         display: block;
         cursor:pointer;
