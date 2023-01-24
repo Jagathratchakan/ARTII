@@ -202,7 +202,7 @@ nav ul li a i{
 
 
 
-@media only screen and (max-width:270px) {
+@media only screen and (max-width:320px) {
     label{
         display: block;
         cursor:pointer;
@@ -222,13 +222,6 @@ nav ul li a i{
        #toggle:checked + .menu{
         display: block; 
     }
-  .hero{
-    background-image: url("MOB.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    background-position: fixed;
-}
 
 
 }
