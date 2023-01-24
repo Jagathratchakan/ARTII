@@ -222,7 +222,7 @@ nav ul li a i{
     #toggle:checked + .menu{
         display: block;
     }
-  .hero{
+  #hero{
     background-image: url('MOB.png');
     background-position: center;
     background-repeat: no-repeat;
