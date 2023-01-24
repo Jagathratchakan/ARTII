@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>POPUP</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h2>PAPER GLITZZ</h2>
+            <p>Paper presentation is an event where the participants are required to make a paper about a certain topic or area,
+                and then present it in front of a jury, following which it will be rated and judged based on their performance.</p>
+        </div>
+        <div class="toggleBtn"></div>
+    </div>
+    <script>
+        let toggleBtn = document.querySelector('.toggleBtn');
+        let container = document.querySelector('.container');
+        toggleBtn.onclick = function(){
+             container.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

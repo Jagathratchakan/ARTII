@@ -1,0 +1,7 @@
+<div class="img-box">
+            <h1 class="events">EVENTS</h1><br>
+            <p><a href="#" class="icon" style="text-decoration: none;"><i class="fa-solid fa-circle-plus"></i>TECHNICAL</a><br>
+               <a href="#" class="icon" style="text-decoration: none;"><i class="fa-solid fa-circle-plus"></i>NON-TECHNICAL</a><br>
+               <a href="#" class="icon" style="text-decoration: none;"><i class="fa-solid fa-circle-plus"></i>SPECIAL</a>
+            </p>
+        </div>
